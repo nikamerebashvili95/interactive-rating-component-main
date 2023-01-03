@@ -125,6 +125,13 @@ input[type="radio"] {
   text-align: center;
   margin-top: -10px;
 }
+.attribution {
+  margin-top: 24px;
+  color: var(--White);
+}
+.attribution a {
+  color: var(--Orange);
+}
 @media all and (min-width: 689px) {
   .container {
     padding: 30px;
