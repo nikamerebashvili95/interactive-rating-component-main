@@ -18,13 +18,13 @@ This is a solution to the [Interactive pricing component on Frontend Mentor](htt
 ### Screenshot
 
 ![](./design/desktop-design.jpg)
-![](./design/mobile-design.jpg)
+![](./design/mobile-thank-you-state.jpg)
 
 
 
 ### Links
 
-- Solution URL: [Solution](https://github.com/nikamerebashvili95/interactive-pricing-component-main)
+- Solution URL: [Solution](https://github.com/nikamerebashvili95/interactive-rating-component-main)
 - Live Site URL: [GitHub Live URL](https://nikamerebashvili95.github.io/interactive-rating-component-main/)
 
 ## My process
@@ -34,7 +34,6 @@ This is a solution to the [Interactive pricing component on Frontend Mentor](htt
 - Semantic HTML5 markup
 - CSS custom properties
 - Flexbox
-- Grid
 - Javascript
 
 
