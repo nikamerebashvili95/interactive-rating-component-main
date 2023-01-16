@@ -1,6 +1,6 @@
 # interactive-rating-component-main
 
-This is a solution to the [Interactive rating component on Frontend Mentor](https://www.frontendmentor.io/challenges/interactive-rating-component-koxpeBUmI). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
+This is a solution to the [Interactive pricing component on Frontend Mentor](https://www.frontendmentor.io/challenges/interactive-pricing-component-t0m8PIyY8). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
 
 ## Table of contents
 
@@ -18,13 +18,13 @@ This is a solution to the [Interactive rating component on Frontend Mentor](http
 ### Screenshot
 
 ![](./design/desktop-design.jpg)
-![](./design/desktop-thank-you-state.jpg)
+![](./design/mobile-design.jpg)
 
 
 
 ### Links
 
-- Solution URL: [Solution](https://github.com/nikamerebashvili95/interactive-rating-component-main)
+- Solution URL: [Solution](https://github.com/nikamerebashvili95/interactive-pricing-component-main)
 - Live Site URL: [GitHub Live URL](https://nikamerebashvili95.github.io/interactive-rating-component-main/)
 
 ## My process
@@ -34,6 +34,7 @@ This is a solution to the [Interactive rating component on Frontend Mentor](http
 - Semantic HTML5 markup
 - CSS custom properties
 - Flexbox
+- Grid
 - Javascript
 
 
